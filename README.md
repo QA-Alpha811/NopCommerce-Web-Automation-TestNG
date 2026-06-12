@@ -55,7 +55,7 @@ The project covers 8 comprehensive user stories:
 ## 📁 Project Structure
 
 ```
-NopCommerceProject_Project3/
+NopCommerceProject/
 │
 ├── 📄 pom.xml                          # Maven configuration
 ├── 📄 README.md                        # Project documentation
